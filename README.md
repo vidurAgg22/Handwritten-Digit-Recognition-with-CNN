@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition with CNN
-This repository contains a simple Convolutional Neural Network (CNN) model trained on the MNIST dataset for image classification. The model is implemented using PyTorch and trained to classify handwritten digits from 0 to 9.
+This repository contains a simple Convolutional Neural Network (CNN) model trained on the MNIST dataset for image classification. The model is implemented using PyTorch and trained to classify handwritten digits from 0 to 9.<br>
 
+https://github.com/vidurAgg22/Handwritten-Digit-Recognition-with-CNN/assets/165144144/b538735e-7d9b-4d8a-9e2c-76823454b1d5
 ## Training the Model
 The CNN model is trained using the MNIST dataset, which consists of 60,000 training images and 10,000 testing images of handwritten digits. The training process involves the following steps:
 1. Data Preprocessing: The MNIST images are preprocessed, converting them to grayscale and normalizing the pixel values to a range of [-1, 1].
