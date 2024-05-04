@@ -10,13 +10,16 @@ This repository contains a simple Convolutional Neural Network (CNN) model train
 git clone https://github.com/your-username/mnist-image-classifier.git
 pip install torch torchvision ipywidgets
 jupyter notebook mnist_image_classifier.ipynb
-File Description
+
+## File Description
 code.ipynb: Jupyter notebook containing the code for training the CNN model and implementing the image classifier.
 ocrcnnmodel.pth: Pre-trained model weights saved in PyTorch format.
-Requirements
+
+##Requirements
 Python 3.x
 PyTorch
 torchvision
 ipywidgets
-License
+
+##License
 This project is licensed under the MIT License.
