@@ -10,14 +10,14 @@ The CNN model is trained using the MNIST dataset, which consists of 60,000 train
 5. Model Evaluation: After training, the model's performance is evaluated using the test dataset to measure its accuracy in classifying handwritten digits.
 
 ## File Description
-code.ipynb: Jupyter notebook containing the code for training the CNN model and implementing the image classifier.
+code.ipynb: Jupyter notebook containing the code for training the CNN model and implementing the image classifier.<br>
 ocrcnnmodel.pth: Pre-trained model weights saved in PyTorch format.
 
 ## Requirements
-Python 3.x
-PyTorch
-torchvision
-ipywidgets
+Python 3.x<br>
+PyTorch<br>
+torchvision<br>
+ipywidgets<br>
 
 ## License
 This project is licensed under the MIT License.
