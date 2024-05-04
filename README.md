@@ -15,11 +15,11 @@ jupyter notebook mnist_image_classifier.ipynb
 code.ipynb: Jupyter notebook containing the code for training the CNN model and implementing the image classifier.
 ocrcnnmodel.pth: Pre-trained model weights saved in PyTorch format.
 
-##Requirements
+## Requirements
 Python 3.x
 PyTorch
 torchvision
 ipywidgets
 
-##License
+## License
 This project is licensed under the MIT License.
